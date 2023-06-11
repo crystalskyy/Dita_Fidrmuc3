@@ -1,0 +1,46 @@
+@sharset "utf-8";
+/* CSS Document*/
+@font-face {
+  font-family: 'DitaFidrmuc_novo';
+  src: url('Pictures/DitaFidrmuc_novo.ttf') format('truetype');
+}
+h1 {
+  font-family: 'DitaFidrmuc_novo';
+}
+p {
+	color: black;
+	font-family: "Constantia", "Lucida Bright", "DejaVu Serif", "Georgia serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+}
+html {background: url("Pictures/pozadina.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+.p1 {font-family: "Freestyle Script"; font-size: 25px}
+.p2 {font-family: "Kristen ITC"; color:#7905E9}
+.p3 {font-family: "Penguin Regular"; font-size: 35px; color: #04188F}
+.p4 {font-family: "Mistral Regular"; font-size: 35px; color: #04188F}
+h3 {font-family: "Constantia", "Lucida Bright", "DejaVu Serif", "Georgia serif";
+	color: #160763;} 
+a:link {
+	color:black;
+	background-color:#becde6;
+	padding:5px;
+	line-height:40px;
+	margin:6px
+}
+a:hover {
+	background-color:darkgray;
+}
+img {
+	height:315px;
+}
+.video-container {
+      display: flex;
+    }
+.video-container video {
+      width: 50%;
+    }
