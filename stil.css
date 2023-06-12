@@ -2,7 +2,7 @@
 /* CSS Document*/
 @font-face {
   font-family: 'DitaFidrmuc_novo';
-  src: url('Pictures/DitaFidrmuc_novo.ttf') format('truetype');
+  src: url('Pictures/DitaFidrmuc_novo.ttf');
 }
 h1 {
   font-family: 'DitaFidrmuc_novo';
