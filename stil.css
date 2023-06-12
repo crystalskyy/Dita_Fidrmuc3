@@ -19,10 +19,10 @@ p {
 html {background: url("Pictures/pozadina.jpg") no-repeat center fixed;
 	background-size: cover;
 }
-.p1 {font-family: "fonts/Freestyle Script"; font-size: 25px}
-.p2 {font-family: "fonts/Kristen ITC"; color:#7905E9}
-.p3 {font-family: "fonts/Penguin Regular"; font-size: 35px; color: #04188F}
-.p4 {font-family: "fonts/Mistral Regular"; font-size: 35px; color: #04188F}
+.p1 {font-family: "Freestyle Script"; font-size: 25px}
+.p2 {font-family: "Kristen ITC"; color:#7905E9}
+.p3 {font-family: "Penguin Regular"; font-size: 35px; color: #04188F}
+.p4 {font-family: "Mistral Regular"; font-size: 35px; color: #04188F}
 h3 {font-family: "Constantia", "Lucida Bright", "DejaVu Serif", "Georgia serif";
 	color: #160763;} 
 a:link {
