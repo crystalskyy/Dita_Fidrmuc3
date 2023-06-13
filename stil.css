@@ -1,11 +1,11 @@
 @sharset "utf-8";
 /* CSS Document*/
 @font-face {
-  font-family: "DitaFidrmuc_novo";
-  src: url("Pictures/DitaFidrmuc_novo.ttf");
+  font-family: 'DitaFidrmuc_novo';
+  src: url('Pictures/DitaFidrmuc_novo.ttf') format('truetype');
 }
 h1 {
-  font-family: "DitaFidrmuc_novo";
+  font-family: 'DitaFidrmuc_novo';
 }
 p {
 	color: black;
